@@ -5,4 +5,3 @@
 [![codecov](https://codecov.io/gh/jkukko/ohtu-2019-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/jkukko/ohtu-2019-viikko1)
 
 https://github.com/jkukko/ohtu-2020-tehtavat
-7
